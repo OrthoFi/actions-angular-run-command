@@ -1,0 +1,5 @@
+name: Prepare Angular
+description: Prepares an angular app
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
